@@ -566,7 +566,7 @@ body {
   position: absolute;
   top: 48px;
   left: 21px;
-  width: 190;
+  width: 190px;
   z-index: 1;
 }
 
@@ -574,7 +574,7 @@ body {
   position: absolute;
   top: 207px;
   left: 21px;
-  width: 190;
+  width: 190px;
   z-index: 1;
 }
 
@@ -582,7 +582,7 @@ body {
   position: absolute;
   top: 362px;
   left: 21px;
-  width: 190;
+  width: 190px;
   z-index: 1;
 }
 
@@ -590,7 +590,7 @@ body {
   position: absolute;
   bottom: 174px;
   left: 21px;
-  width: 190;
+  width: 190px;
   z-index: 1;
 }
 
@@ -598,7 +598,7 @@ body {
   position: absolute;
   bottom: 18px;
   left: 21px;
-  width: 190;
+  width: 190px;
   z-index: 1;
 }
 
